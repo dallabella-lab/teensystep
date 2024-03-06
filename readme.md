@@ -28,7 +28,7 @@ Refer to the circuit diagram included here.
 
 2. Solder the wires to the resistor and FSR as indicated. 
 
-![wiring](misc/wiringTeensyStep.svg). 
+![wiring](misc/wiringTeensyStep.pdf). 
 
 
 ### Installation (needs to be done only once)
