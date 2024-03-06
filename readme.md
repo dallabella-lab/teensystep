@@ -9,7 +9,7 @@ A framework for running sensorimotor synchronisation experiment. The framework i
 ### Hardware
 * [Teensy 3.2](https://www.pjrc.com/store/teensy32.html) 
 * [Audio Adapter](https://www.pjrc.com/store/teensy3_audio.html) for Teensy 3.2
-* See the section [click on this link](#building-the-circuit) for detailed information
+* See the section [Building the circuit](#building-the-circuit) for detailed information
 
 ### Development software
 The following software is required for uploading the code to Teensy.
