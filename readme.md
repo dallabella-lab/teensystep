@@ -7,18 +7,15 @@ A framework for running sensorimotor synchronisation experiment. The framework i
 ## Requirements
 
 ### Hardware
-* [Teensy 3.2](https://www.pjrc.com/store/teensy32.html) (may also work with later versions)
-* [Audio Adapter](https://www.pjrc.com/store/teensy3_audio.html) for Teensy 3.2.
-* FSR sensor (Force-sensitive resistor)
-* Break-away straight headers (to connect Teensy with the Audio Adapter)
-* A few wires and a resistor
-* Tools: soldering iron and tin
+* [Teensy 3.2](https://www.pjrc.com/store/teensy32.html) 
+* [Audio Adapter](https://www.pjrc.com/store/teensy3_audio.html) for Teensy 3.2
+* See the section [click on this link](#building-the-circuit) for detailed information
 
 ### Development software
 The following software is required for uploading the code to Teensy.
 
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software). Code developed with Arduino 1.8.13.
-* [Teensyduino extension for Arduino IDE](https://www.pjrc.com/teensy/teensyduino.html). Teensyduino is basically a set of tools that allow you to use the Arduino development environment to make code for your Teensy. Currently using Teensyduino 1.53.
+* [Teensyduino extension for Arduino IDE](https://www.pjrc.com/teensy/teensyduino.html). Code developed using Teensyduino 1.53.
 
 
 ### Building the circuit
@@ -34,11 +31,11 @@ Refer to the circuit diagram included here.
 ### Installation (needs to be done only once)
 
 
-1. Download the [Arduino IDE](https://www.arduino.cc/en/Main/Software) - **important** make sure you download version **1.8.13** (Teensyduino only works with some specific versions of Arduino IDE).
+1. Download the [Arduino IDE](https://www.arduino.cc/en/Main/Software) - (Teensyduino only works with some specific versions of Arduino IDE).
 
-2. Download [Teensyduino](https://www.pjrc.com/teensy/td_download.html) and run the installer, pointing it to where you have installed the Arduino code. If you're under Linux, make sure you download the udev rules as indicated on the site above.
+2. Download [Teensyduino](https://www.pjrc.com/teensy/td_download.html) and run the installer, pointing it to where you have installed the Arduino code. 
 
-3. Download or clone this repository (i.e. `git clone https://gitlab.com/sdblab/teensystep`).
+3. Download or clone this repository (i.e. `git clone https://github.com/dallabella-lab/teensystep`).
 
 
 ## Close-ups
