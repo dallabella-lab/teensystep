@@ -1,6 +1,6 @@
-# Teensy Step
+# TeensyStep
 
-A framework for implementing sensorimotor synchronisation experiments. The framework is based on Teensy 3.2 and the Audio Adaptor Board for Teensy 3.x. The code reported here will allow the Teensy to record the onset of steps and deliver metronome click sounds over heaphones adapted to the initial cadence of the steps. Data is saved on the onboard SD Card for offline analysis. 
+TeensyStep is a framework for implementing sensorimotor synchronisation experiments. The framework is based on Teensy 3.2 and the Audio Adaptor Board for Teensy 3.x. The code reported here will allow the Teensy to record the onset of steps and deliver metronome click sounds over heaphones adapted to the initial cadence of the steps. Data is saved on the onboard SD Card for offline analysis. 
 
 ![alt text](misc/Equipment_participant_labelled.png "Setup example")
 
@@ -49,7 +49,7 @@ Once the prototype has been manufactured it can be attached to the participant's
 
 <img src="misc/Equipment_participant.jpg" alt="equipment" align="center" width="500"/>
 
-## How to conduct the Ramp protocole?
+## How to conduct the Ramp protocol?
 
 ### Before the exeperiment
 
@@ -66,7 +66,7 @@ After a short press, the LED of the custom board is on, indicating the trial is 
 
 ## Sampling frequency
 
-The sampling frequency of Teensystep is 1KHz.
+The sampling frequency of TeensyStep is 1KHz.
 
 ## References
 
