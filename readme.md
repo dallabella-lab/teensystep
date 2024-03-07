@@ -51,7 +51,7 @@ Once the prototype has been manufactured it can be attached to the participant's
 
 ## How to conduct the Ramp protocole?
 
-# Before the exeperiment
+### Before the exeperiment
 
 Before the experiment, prepare a txt file called "CONFIG" and save it on the SD card. This file contains the trials parameters (order of trials, slope of the tempo change, number of steps to complete the trial).
 
@@ -59,7 +59,7 @@ Before the experiment, prepare a txt file called "CONFIG" and save it on the SD 
 
 In this study, there were 4 trial types with tempo change relative to the initial cadence of the participant: 1. 20% acceleration; 2. 20% deceleration; 3. no change; 4. no change with no sound (i.e. baseline).
 
-# How to start a trial?
+### How to start a trial?
 After inserting the SD card, and connecting the battery and FSR to the board, start the trial by pressing once (short press) on the buttonpress switch (see the Custom shiel close-up above).
 Additional short press will restart the same trial. To start the next trial type (see CONFIG detail), a long press (i.e. more than one second) will turn the Teensy LED on and select the following line on the CONFIG file. Then, you can click again on the same button (short press) to start the trial.
 After a short press, the LED of the custom board is on, indicating the trial is currently running which helps monitoring the experiment.
