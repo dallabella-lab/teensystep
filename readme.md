@@ -2,7 +2,7 @@
 
 A framework for implementing sensorimotor synchronisation experiments. The framework is based on Teensy 3.2 and the Audio Adaptor Board for Teensy 3.x. The code reported here will allow the Teensy to record the onset of steps and deliver metronome click sounds over heaphones adapted to the initial cadence of the steps. Data is saved on the onboard SD Card for offline analysis. 
 
-![alt text](misc/Equipment_TeensyStep.jpg "Setup example")
+![alt text](misc/Equipment_participant_labelled.png "Setup example")
 
 ## Requirements
 
